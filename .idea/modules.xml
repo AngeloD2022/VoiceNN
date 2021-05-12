@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LibNeural/LibNeural.iml" filepath="$PROJECT_DIR$/LibNeural/LibNeural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibWave/LibWave.iml" filepath="$PROJECT_DIR$/LibWave/LibWave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VoiceGAN.iml" filepath="$PROJECT_DIR$/VoiceGAN.iml" />
+    </modules>
+  </component>
+</project>
