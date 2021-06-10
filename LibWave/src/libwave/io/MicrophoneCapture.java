@@ -3,6 +3,8 @@ package libwave.io;
 import javax.sound.sampled.*;
 import java.io.ByteArrayOutputStream;
 
+// TODO: Finish this...
+
 public class MicrophoneCapture {
 
     private TargetDataLine dataLine;
