@@ -37,8 +37,6 @@ public class Complex {
         return new Complex(this.r * r, this.i * r);
     }
 
-
-
     @Override
     public String toString() {
         return String.valueOf(r) + " + " + String.valueOf(i) + 'i';
