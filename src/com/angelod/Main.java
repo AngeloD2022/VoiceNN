@@ -44,6 +44,7 @@ public class Main {
                 15.6936, 8.95317, 4.46984, 12.1601, 4.96757, 10.3981, 9.90728, 13.4516, 7.69608, 12.7877};
 
         FastFourierTransform.FFT(samples);
+//        ComplexMatrixUtil.quadMerge()
 
         Complex[][] matrix = ComplexMatrixUtil.constructDFTMtx(32);
         ComplexMatrixUtil.printMtx(matrix);
